@@ -2,16 +2,17 @@
 <br>
 
 <p>I'm an Engineer from Germany 🇩🇪</p>
-<p>I am currently learning Frontend and Backend Software Development</p>
+<p>I am currently learning Frontend and Backend Software Development.</p>
+<p>At the moment I am working on a <a href="https://github.com/StefanHellerDev/Memory-Game">Memory Game</a>.</p>
 <br>
 
 <h2 align="left">I just learned</h2>
 
 #### Frontend:
-[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,sass,js,ts,bootstrap)](https://skillicons.dev)
 
 #### Tools:
-[![Tools](https://skillicons.dev/icons?i=vscode,git,github,figma)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,vite,npm,git,github,figma)](https://skillicons.dev)
 
 
 <h2 align="left">I am going to learn</h2>
