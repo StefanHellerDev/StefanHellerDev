@@ -9,11 +9,12 @@
 <h2 align="left">I just learned</h2>
 
 #### Frontend:
-[![Frontend](https://skillicons.dev/icons?i=html,css,sass,js,ts,bootstrap)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap)](https://skillicons.dev)
 
 #### Tools:
 [![Tools](https://skillicons.dev/icons?i=vscode,vite,npm,git,github,figma)](https://skillicons.dev)
 
+<br>
 
 <h2 align="left">I am going to learn</h2>
 
