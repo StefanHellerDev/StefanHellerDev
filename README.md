@@ -3,7 +3,7 @@
 
 <p>I'm an Engineer from Germany 🇩🇪</p>
 <p>I am currently learning Frontend and Backend Software Development.</p>
-<p>At the moment I am working on a <a href="https://github.com/StefanHellerDev/Memory-Game">Memory Game</a>.</p>
+<p>At the moment I am learning [![Frontend](https://skillicons.dev/icons?i=angular)](https://skillicons.dev).</p>
 <br>
 
 <h2 align="left">I just learned</h2>
